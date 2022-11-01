@@ -18,7 +18,7 @@ importers:
       '@types/node': ^18.0.5
       '@types/react': ^18.0.15
       '@types/react-dom': ^18.0.6
-      '@types/web': ^0.0.69
+      '@types/web': ^0.0.77
       github-markdown-css: ^5.1.0
       jest: ^28.1.3
       react: ^18.2.0
@@ -42,7 +42,7 @@ importers:
       '@types/node': 18.0.5
       '@types/react': 18.0.15
       '@types/react-dom': 18.0.6
-      '@types/web': 0.0.69
+      '@types/web': 0.0.77
       github-markdown-css: 5.1.0
       jest: 28.1.3_@types+node@18.0.5
       react: 18.2.0
@@ -4110,8 +4110,8 @@ packages:
     resolution: {integrity: sha512-PBjIUxZHOuj0R15/xuwJYjFi+KZdNFrehocChv4g5hu6aFroHue8m0lBP0POdK2nKzbw0cgV1mws8+V/JAcEkQ==}
     dev: true
 
-  /@types/web/0.0.69:
-    resolution: {integrity: sha512-0CqMxeJ+ETljejsVQ5U6gV75C9zz9nmCBXHYqdfnVmWp54VfoJSxUgeO6NI+ezgBl0JQsSiZCs2pkCCT9ERhbA==}
+  /@types/web/0.0.77:
+    resolution: {integrity: sha512-RfMzVbwUNNekbyw+Sku++ikQkih0XIb97CD+t8sJ2cIX8D9j56z31zoefUWadFIZLZQ+YMIKBzsqaNE0BNiQww==}
     dev: true
 
   /@types/ws/8.5.3:
